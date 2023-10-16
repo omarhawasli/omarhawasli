@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Omar
 
 
-is A passionate Full-Stack Software Engineer.
+A passionate Full-Stack Software Developer.
 
 Here are some ideas to get you started:
 
