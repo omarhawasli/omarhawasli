@@ -1,7 +1,5 @@
-### Hi there 👋 I'm Omar
-
-
-A passionate Full-Stack Software Developer.
+<h1 align="center">Hi 👋, I'm Omar</h1>
+<h3 align="center">A passionate Software developer lives in Hamburg</h3>
 
 Here are some ideas to get you started:
 
