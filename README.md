@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate Software Developer lives in Hamburg </h3>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Java Project
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me:
