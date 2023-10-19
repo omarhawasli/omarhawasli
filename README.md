@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">A passionate Software Developer lives in Hamburg </h3>
+<h3 align="center">A passionate Software Developer based in Hamburg </h3>
 
 - 🔭 I’m currently working on Networking projects
 - 💬 Ask me about anything, I am happy to help
