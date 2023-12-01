@@ -1,4 +1,4 @@
-![Header](./header.png)
+
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate Software Developer based in Hamburg </h3>
