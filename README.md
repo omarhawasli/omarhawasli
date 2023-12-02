@@ -2,6 +2,11 @@
 
 <h3 align="center">A passionate Software Developer based in Hamburg </h3>
 
+
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://www.animatedimages.org/img-animated-line-image-0446-106424.htm)">
+
+### 👨‍💻 About me 
+
 - 🔭 I’m currently working on Java CRUD project
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I’m addicted to learning and growing every day
