@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-img.png)
 
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
