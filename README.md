@@ -1,7 +1,5 @@
 ![Header](./github-header-img.png)
 
-
-<h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate Software Developer based in Hamburg </h3>
 
 - 🔭 I’m currently working on Java CRUD project
