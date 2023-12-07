@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About me 
 
-- 🔭 I’m currently working on Java CRUD project
+- 🔭 I’m currently working on some Python Projects
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to reach me:
