@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,java,js,mysql,nodejs,postman,php,react,bootstrap,c,cs,cpp,idea,py,js,php,html,css,express,mongodb,nextjs,redux,tailwind,discord,docker,raspberrypi,bsd,vscode&perline=14" />,
+    <img src="https://skillicons.dev/icons?i=linux,git,github,java,js,mysql,nodejs,postman,php,react,bootstrap,c,cs,cpp,idea,py,php,html,css,express,mongodb,nextjs,redux,tailwind,discord,docker,raspberrypi,bsd,vscode&perline=14" />,
   </a>
 </p>
 
