@@ -4,11 +4,6 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <h3 align="center">A passionate Software Developer based in Hamburg </h3>
 
