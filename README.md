@@ -17,10 +17,21 @@
 
 ### 👨‍💻 About me 
 
-- 🔭 I’m currently working on some Python Projects
-- 💬 Ask me about anything, I am happy to help
-- 🌱 I’m addicted to learning and growing every day
-- 📫 Feel free to reach me out amr.hawasli.1@gmail.com
+
+```java
+public class About extends Me{
+    public String Name = "Omar";
+    public String city = "Hamburg";
+    public String email = "amr.hawasli.1@gmail.com";
+    public String current_work = " Web3 Software Developer at IPBee";
+    private String[] hobbies = { " Musik spielen", "Städtereisen", "Coding", " Strategiespiele" };
+
+    private void Ambitions() {
+        self_development();
+    }
+}
+```
+
 
 
 
@@ -43,8 +54,11 @@
   </a>
 </p>
 
+### 👨‍💻 My Status
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarhawasli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![P's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarhawasli&theme=radical&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarhawasli&layout=compact&show_icons=true&theme=radical)
 
 
