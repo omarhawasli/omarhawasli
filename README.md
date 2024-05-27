@@ -50,9 +50,12 @@ public class About extends Me{
   </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,java,js,mysql,nodejs,postman,php,react,bootstrap,c,cs,cpp,idea,py,php,html,css,express,mongodb,nextjs,redux,tailwind,discord,docker,raspberrypi,bsd,vscode&perline=14" />,
+    <img src="https://skillicons.dev/icons?i=linux,git,github,java,js,mysql,nodejs,postman,php,react,bootstrap,c,cs,cpp,idea,py,php,html,css,express,mongodb,nextjs,redux,tailwind,discord,docker,raspberrypi,bsd,vscode&perline=14" />
   </a>
 </p>
+<!--tech stack icons-->
+<p align="center"><img src="https://camo.githubusercontent.com/49f20b314f2ab7a967aecd67c14b78a78d219d350b335992a2aacf68183a4911/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" width="20" height="20" />
+  </p>
 
 ### 👨‍💻 My Status
 
